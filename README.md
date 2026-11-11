@@ -36,14 +36,22 @@ This installs and runs deepseek-coder:6.7b.
 
 ## Setting it up & and running it
 
-Navigate to the Deepcode folder and start the application:
+ ### Running the Application
 
-```bash
-cd Deepcode
-python main.py
-```
+Open your terminal or command prompt and run the single command for your operating system:
+* **MacOS:**
+  just double click the deepseek.command in finder
+   
+* **Linux:**
+  ```bash
+  cd deepseek && python3 main.py
+  ```
 
- 
+* **Windows:**
+  ```cmd
+  cd deepseek && python main.py
+  ```
+  
 ## Licence
 
 Copyright (c) 2026 Matteus Merrun. All Rights Reserved.
